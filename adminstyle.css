@@ -1,0 +1,49 @@
+div{
+	margin-left: 20px;
+}
+
+hr{
+	width: 50%;
+	margin-left: 0;
+}
+
+img{
+	width: 100%;
+}
+
+#selected{
+	text-decoration: underline;
+}
+
+.add button{
+	padding: 20px;
+	background-color: #8fd68f;
+}
+
+.removenews, .removedates, .removedisco, .removeimg{
+	background-color: #de3232;
+}
+
+textarea{
+	width: 600px;
+	height: 200px;
+}
+input[type="text"]{
+	width: 600px;
+}
+
+.left{
+	width: 40%;
+	float: left;
+	display: inline-block;
+}
+
+.left hr{
+	width: 100%;
+}
+
+.right{
+	width: 40%;
+	float: right;
+	display: inline-block;
+}
